@@ -1,0 +1,27 @@
+{
+  "name": "project_management",
+  "version": "1.0.0",
+  "description": "A project management application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman120403/Project_Management.git"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Aman Maurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman120403/Project_Management/issues"
+  },
+  "homepage": "https://github.com/Aman120403/Project_Management#readme",
+  "devDependencies": {
+    "prettier": "3.8.1"
+  }
+}
